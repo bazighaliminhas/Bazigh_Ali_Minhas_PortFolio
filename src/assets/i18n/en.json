@@ -7,9 +7,9 @@
   "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>8 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, applying good practices and development standards.",
-  "Banner.ActionBtn": "Say Hi",
-
+  "Banner.Description": "I am an <span class='underline'> Angular Developer </span> with over <span class='underline'> one year of experience </span> in building scalable web applications using <span class='underline'> Angular 19+, TypeScript, RxJS, </span> and <span class='underline'> Tailwind CSS. </span> Skilled in creating reusable components, optimizing state management, and delivering seamless <span class='underline'> frontend-backend solutions </span> with <span class='underline'> ASP.NET Core </span> and <span class='underline'> SQL Server. </span>",
+  "Banner.ActionBtn": "Get In Touch",
+  
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
     "In <span class='underline'>8 years of experience</span> I have covered many roles: <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
