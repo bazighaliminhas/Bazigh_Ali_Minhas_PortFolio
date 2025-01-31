@@ -4,96 +4,58 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
+  "Header.cvName": "Bazigh_Ali_Minhas_Resume.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
   "Banner.Description": "I am an <span class='underline'> Angular Developer </span> with over <span class='underline'> one year of experience </span> in building scalable web applications using <span class='underline'> Angular 19+, TypeScript, RxJS, </span> and <span class='underline'> Tailwind CSS. </span> Skilled in creating reusable components, optimizing state management, and delivering seamless <span class='underline'> frontend-backend solutions </span> with <span class='underline'> ASP.NET Core </span> and <span class='underline'> SQL Server. </span>",
   "Banner.ActionBtn": "Get In Touch",
-  
+
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
-    "In <span class='underline'>8 years of experience</span> I have covered many roles: <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
-    "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
-    "I also program things for my personal use, whether for hobby or utility.",
-    "Some of the technologies I have trained and worked with include (but are not limited to):"
-  ],
+    "I am a skilled <span class='underline'> Angular Developer </span> with <span class='underline'> over one year of experience </span> in creating scalable, high-performance web applications using <span class='underline'> Angular 19+, TypeScript, RxJS, </span> and <span class='underline'> Tailwind CSS. </span> I specialize in developing <span class='underline'> responsive and reusable components, </span> optimizing <span class='underline'> state management, </span> and implementing seamless <span class='underline'> RESTful API integrations. </span>",
+    "My expertise extends to <span class='underline'> backend technologies,</span> including <span class='underline'> ASP.NET Core, SQL Server,</span> and <span class='underline'> Entity Framework Core,</span> enabling me to deliver efficient <span class='underline'> frontend-backend solutions.</span> I focus on writing <span class='underline'> clean, maintainable code </span> and standardizing development patterns to enhance application performance and user experience.",
+    "Passionate about modern web development, I continuously strive to innovate and create impactful software solutions that meet client needs and exceed expectations."
+   ],
 
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Global",
-      "Title": "Fullstack Developer",
-      "Date": "May 2023",
+      "Tab": "Education",
+      "Title": "Bachelor’s in Computer Science",
+      "Date": "University of South Asia, Lahore, Pakistan (2018 – 2022)",
       "Description": [
-        "Leader in technical decision making",
-        "Hiring technical talent for the company",
-        "Team leader of the technology department",
-        "Creation and maintenance of an internal process management platform for course sales",
-        "Programming custom functions and plugins for customizing a WordPress platform",
-        "Implementation of continuous integration and daily backups.",
-        "Planning and reporting meetings."
+        "<span class='underline'>Developed expertise in programming languages </span> such as <span class='underline'> C++, Python,</span> and <span class='underline'> Java,</span> laying a strong foundation in software development.",
+        "Gained hands-on experience in <span class='underline'> web development technologies,</span> including <span class='underline'> HTML, CSS, JavaScript,</span> and modern frameworks like <span class='underline'> Angular.</span>",
+        "Successfully completed academic projects, including a <span class='underline'> capstone project focused on web application development </span> using <span class='underline'> Angular </span> and <span class='underline'> ASP.NET Core.</span>",
+        "Demonstrated strong problem-solving skills through coursework in <span class='underline'> Data Structures, Algorithms, and Database Management Systems (SQL Server). </span>",
+        "Actively participated in technical workshops, hackathons, and seminars to enhance practical knowledge in <span class='underline'> software engineering. </span>",
+        "Excelled in team collaborations for group projects, simulating real-world software development scenarios."
       ]
     },
     {
-      "Tab": "Proyex",
-      "Title": "Fullstack Developer",
-      "Date": "December 2019 - May 2023",
+      "Tab": "eSoftage Solution",
+      "Title": "Angular Developer",
+      "Date": "January 2023 – May 2023",
       "Description": [
-        "Creation and maintenance of a monitoring platform with charts in WordPress.",
-        "Functional programming in templates and plugins to add necessary monitoring features.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of a second Monitoring Platform made with Angular, Angular Material, Laravel, MySQL, RxJS, Sass with configurable charts, alarm systems, and user management and general configuration settings.",
-        "Planning and reporting meetings."
+        "Designed and developed <span class='underline'> responsive web interfaces </span> using <span class='underline'> Angular 14+,</span> focusing on reusable and scalable components.",
+        "Implemented efficient <span class='underline'> state management </span> with <span class='underline'>RxJS,</span> ensuring seamless user interactions and real-time updates.",
+        "Integrated <span class='underline'> RESTful APIs </span> into Angular applications to provide dynamic functionality and data synchronization.",
+        "Enhanced application performance by optimizing <span class='underline'> front-end workflows </span> and implementing <span class='underline'> lazy loading </span> techniques.",
+        "Collaborated with cross-functional teams in an <span class='underline'> Agile environment </span> to deliver high-quality projects on time.",
+        "Ensured code quality by adhering to <span class='underline'> best practices </span> and conducting <span class='underline'> code reviews </span> for maintainable software development."
       ]
     },
     {
-      "Tab": "Freelancer",
-      "Title": "Freelancer",
-      "Date": "May 2016 - Present",
+      "Tab": "VU360 Solutions",
+      "Title": "Associate Software Engineer",
+      "Date": "June 2023 – December 2023",
       "Description": [
-        "Continuous improvements implementation, working on frontend and backend.",
-        "Creation of platforms with Angular, Laravel, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Process automation with data structures.",
-        "Template designs with SASS, Bootstrap, Materialize, Bulma, etc."
-      ]
-    },
-    {
-      "Tab": "Moebius",
-      "Title": "Fullstack Developer",
-      "Date": "July 2017 - October 2018",
-      "Description": [
-        "Leading a team of 4 people in the development of a tourism data management platform made in Angular, Laravel, and MySQL.",
-        "Implementation of CI/CD in Azure. Refactoring and optimizing application load times.",
-        "Coding API requests with RxJS.",
-        "Creating modules with complex reactive forms.",
-        "Writing weekly reports about goals and plans."
-      ]
-    },
-    {
-      "Tab": "TechLatam",
-      "Title": "Frontend Developer",
-      "Date": "February 2016 - May 2017",
-      "Description": [
-        "Creating WordPress templates with ACF, functional programming in JavaScript/jQuery, styles in SASS.",
-        "Integrating design and load time improvements for templates.",
-        "Effective communication with the design team, working with Avocode/Figma."
-      ]
-    },
-    {
-      "Tab": "CANTV",
-      "Title": "Systems Analyst",
-      "Date": "November 2015 - December 2016",
-      "Description": [
-        "Programming new functionalities for an existing employee management platform made with Angular and ExpressJS.",
-        "Refactoring old code. Ensuring compatibility of each dependency with each update, including regular Angular updates."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "English Teacher",
-      "Date": "January 2015 - July 2015",
-      "Description": [
-        "Teaching basic English to a student body of over 200 students."
+        "<span class='underline'> Developed reusable and dynamic components </span> using <span class='underline'> Angular </span> and <span class='underline'> Material Grid, </span> enhancing the application's functionality and user experience.",
+        "Implemented <span class='underline'> CRUD APIs </span> with <span class='underline'> ASP.NET Core 8, </span> ensuring seamless data synchronization and management.",
+        "Managed <span class='underline'> SQL databases </span> for efficient data storage, retrieval, and integrity, improving overall application performance.",
+        "Ensured the application was fully <span class='underline'> responsive </span> and optimized for all screen sizes to enhance user engagement.",
+        "Contributed to secure user experiences by implementing <span class='underline'> authentication mechanisms </span> for data protection.",
+        "Delivered key contributions to projects like <span class='underline'> eSyncMate, </span> ensuring seamless functionality and visual appeal."
       ]
     }
   ],
