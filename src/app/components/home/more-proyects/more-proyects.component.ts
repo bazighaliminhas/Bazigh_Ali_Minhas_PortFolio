@@ -8,7 +8,36 @@ import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
   styleUrls: ['./more-proyects.component.scss']
 })
 export class MoreProyectsComponent implements OnInit {
+  Projects = [
+    {
+     
+      Title:'Quizz App',
+      Description:'The Simple Quiz App is a user-friendly and straightforward application designed to offer a fun and interactive quiz experience. the quiz consists of multiple-choice questions, and users can select their answers from the provided options.',
+      Technologies:['Html','Css','javaScript' , 'Jquery'],
+      ghLink:'https://github.com/bazighaliminhas/quizz-app',
+      demoLink:'https://quizzzz-app-js.netlify.app/'
+    },
 
+
+    {
+     
+      Title:'techivo',
+      Description:'techivo site  (personal practicing on design)',
+      Technologies:['Html','Css','Animation','Responsive'],
+      ghLink:'https://github.com/bazighaliminhas/techivo',
+      demoLink:'https://techivo.netlify.app/'
+    },
+
+    {
+     
+      Title:'devolio',
+      Description:'devolio site  (personal practicing on design)',
+      Technologies:['Html','Css','Animation','Responsive'],
+      ghLink:'https://github.com/bazighaliminhas/devolio',
+      demoLink:'https://devoliooo.netlify.app/'
+    },
+
+  ]
   constructor(
     private router: Router,
     public analyticsService: AnalyticsService
