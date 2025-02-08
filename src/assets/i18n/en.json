@@ -35,7 +35,7 @@
     {
       "Tab": "eSoftage Solution",
       "Title": "Angular Developer",
-      "Date": "January 2023 – May 2023",
+      "Date": "January 2024 – August 2024",
       "Description": [
         "Designed and developed <span class='underline'> responsive web interfaces </span> using <span class='underline'> Angular 14+,</span> focusing on reusable and scalable components.",
         "Implemented efficient <span class='underline'> state management </span> with <span class='underline'>RxJS,</span> ensuring seamless user interactions and real-time updates.",
@@ -48,7 +48,7 @@
     {
       "Tab": "VU360 Solutions",
       "Title": "Associate Software Engineer",
-      "Date": "June 2023 – December 2023",
+      "Date": "August 2023 – December 2023",
       "Description": [
         "<span class='underline'> Developed reusable and dynamic components </span> using <span class='underline'> Angular </span> and <span class='underline'> Material Grid, </span> enhancing the application's functionality and user experience.",
         "Implemented <span class='underline'> CRUD APIs </span> with <span class='underline'> ASP.NET Core 8, </span> ensuring seamless data synchronization and management.",
